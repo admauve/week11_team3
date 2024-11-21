@@ -16,4 +16,3 @@ def win(player, opponent):
         return True
     return False
 
-#
